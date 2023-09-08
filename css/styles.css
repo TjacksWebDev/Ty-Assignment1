@@ -47,10 +47,18 @@ h2 {
 ul {
     list-style-type: none;
     margin: 2px;
-    padding: 5;
+    padding: 15;
     display: flex;
     float:right
+    
  }
+ li {
+    border-right: 10px solid #bbbbbb00;
+  }
+  
+  li:last-child {
+    border-right: none;
+  }
 
 
 .section1 {
@@ -67,6 +75,26 @@ ul {
     margin-right: -69px;
     margin-top: 45px;
 }
+h2 {
+  margin-bottom: 0px; 
+  color: white;
+}
+
+.copy1 h1 {
+    flex: 0 0 450px;
+	color: rgb(255, 255, 255);
+	z-index: 1;
+    margin-right: -69px;
+
+}
+
+#button5free {
+    margin-top: 40px
+    white-space: normal; 
+    width: 200px; 
+    padding: 10px 50px;
+}
+
 
 .picture1 {
 	flex: 0 1 900px;
