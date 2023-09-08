@@ -41,14 +41,14 @@ h2 {
 	align-items: center;
 }
 
-.section1 {
+.section-1 {
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	padding-top: 50px;
 }
 
-.copy1 {
+.copy-1 {
 	flex: 0 0 450px;
 	color: RGB(201, 184, 252);
 	z-index: 1;
@@ -56,23 +56,23 @@ h2 {
     margin-top: 45px;
 }
 
-.picture1 {
+.picture-1 {
 	flex: 0 1 900px;
 	z-index: 0;
 }
 
-.section2 {
+.section-2 {
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	padding: 50px 0px;
 }
 
-.patented {
+.patented-tech {
 	flex: 0 1 500px;
 	margin-right: 50px;
 }
 
-.brainbehavior {
+.brain-and-behavior {
 	flex: 0 1 400px;
 }
